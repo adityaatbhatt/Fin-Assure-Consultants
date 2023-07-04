@@ -1,0 +1,74 @@
+body{
+    margin:0;
+}
+.headder-box
+{
+    margin: 0;
+    color: #347571;
+    padding-left:5%;
+    padding-right:5%;
+    width:100%;
+}
+#slogan
+{
+    margin: 0;
+    color: #347571;
+}
+#company-title
+{
+    margin: 0;
+    color: #347571;
+}
+#intro-container
+{
+    background-image: url(/assets/back.png);
+    background-size: 100%;
+    padding: 1%;
+    width:100%;
+}
+
+#intro
+{
+    width: 250px;
+    font-size:16px ;
+    color:white;
+    text-align: justify;
+    font-family:sans-serif;
+}
+#bottomInput {
+    width: 30%;
+    margin: 8px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #ced4da;}
+
+.logo-box{
+    text-align: right;
+}
+.Checker{
+    padding: 1%;
+    width:100%;
+    text-align: center;
+}
+.challan{
+    border-radius: 40px;
+}
+.credit{
+    border-radius: 40px;
+}
+.apply-text{
+    text-align: center;
+    color: rgb(44, 40, 40);
+}
+.inquery
+{
+    width:100%;
+    text-align: center;
+    background-color: rgb(0, 150, 113);
+}
+.sub{
+    background-color: rgb(187, 250, 229);
+    color:rgb(0, 150, 113);
+    font-weight: bold;
+}
